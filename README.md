@@ -1,4 +1,4 @@
-**How to Use This Code**
+**How to Use This Code**<br>
 Save the script as adplay.php on your server.
 Use Postman to make a POST request to the endpoint http://localhost/adplay.php.
 
