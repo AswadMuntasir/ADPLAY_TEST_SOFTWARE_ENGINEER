@@ -8,57 +8,57 @@ URL: http://localhost/adplay.php<br>
 Headers:<br>
 Content-Type: application/json<br>
 Body (raw, JSON):<br>
-{
-  "bidRequest": {
-    "id": "myB92gUhMdC5DUxndq3yAg",
-    "imp": [
-      {
-        "id": "1",
-        "banner": {
-          "w": 320,
-          "h": 50,
-          "pos": 1,
-          "api": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "format": [
-            {
-              "w": 776,
-              "h": 393
-            },
-            {
-              "w": 667,
-              "h": 375
-            },
-            {
-              "w": 640,
-              "h": 360
-            },
-            {
-              "w": 592,
-              "h": 360
-            },
-            {
-              "w": 568,
-              "h": 320
-            },
-            {
-              "w": 320,
-              "h": 480
-            },
-            {
-              "w": 750,
-              "h": 200
-            },
-            {
-              "w": 400,
-              "h": 300
-            }
-          ]
-        },
+{<br>
+  "bidRequest": {<br>
+    "id": "myB92gUhMdC5DUxndq3yAg",<br>
+    "imp": [<br>
+      {<br>
+        "id": "1",<br>
+        "banner": {<br>
+          "w": 320,<br>
+          "h": 50,<br>
+          "pos": 1,<br>
+          "api": [<br>
+            3,<br>
+            5,<br>
+            6,<br>
+            7<br>
+          ],<br>
+          "format": [<br>
+            {<br>
+              "w": 776,<br>
+              "h": 393<br>
+            },<br>
+            {<br>
+              "w": 667,<br>
+              "h": 375<br>
+            },<br>
+            {<br>
+              "w": 640,<br>
+              "h": 360<br>
+            },<br>
+            {<br>
+              "w": 592,<br>
+              "h": 360<br>
+            },<br>
+            {<br>
+              "w": 568,<br>
+              "h": 320<br>
+            },<br>
+            {<br>
+              "w": 320,<br>
+              "h": 480<br>
+            },<br>
+            {<br>
+              "w": 750,<br>
+              "h": 200<br>
+            },<br>
+            {<br>
+              "w": 400,<br>
+              "h": 300<br>
+            }<br>
+          ]<br>
+        },<br>
         "displaymanager": "GOOGLE",
         "instl": 1,
         "tagid": "3167273236690230250",
