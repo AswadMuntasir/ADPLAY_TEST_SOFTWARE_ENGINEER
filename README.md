@@ -1,13 +1,13 @@
 **How to Use This Code**<br>
-Save the script as adplay.php on your server.
-Use Postman to make a POST request to the endpoint http://localhost/adplay.php.
+Save the script as adplay.php on your server.<br>
+Use Postman to make a POST request to the endpoint http://localhost/adplay.php.<br><br>
 
-**Postman Configuration**
-Method: POST
-URL: http://localhost/adplay.php
-Headers:
-Content-Type: application/json
-Body (raw, JSON):
+**Postman Configuration**<br>
+Method: POST<br>
+URL: http://localhost/adplay.php<br>
+Headers:<br>
+Content-Type: application/json<br>
+Body (raw, JSON):<br>
 {
   "bidRequest": {
     "id": "myB92gUhMdC5DUxndq3yAg",
